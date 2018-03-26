@@ -1,0 +1,1 @@
+cmsDriver.py -s RAW2DIGI,L1Reco,RECO --datatier RECO --conditions 80X_mcRun2_asymptotic_2016_TrancheIV_v6 --eventcontent AODSIM --era Run2_2016 --filein file:gen_sim_76x.root --fileout file:bc_mufilter_GEN-SIM-RAW-RECO.root --python_filename mufilter_FULLSIM_GEN_SIM_RAW_RECO_cfg.py -n -1 :--no_exec
